@@ -24,7 +24,7 @@ The dataset contain following columns:
 
 11) Price: Target variable stores information of the ticket price.
 
-# Case study questions
+# Case study questions and interpretation
 Q1. What are the airlines in the dataset, accompanied by their frequencies.
 
 Interpretation:
